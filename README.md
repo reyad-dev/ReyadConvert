@@ -2,7 +2,7 @@
   <img src="repo-icon.svg" width="180" alt="ReyadConvert icon" />
 </p>
 
-# ⚡ ReyadConvert — Smart Image Converter & Optimizer
+# ⚡ ReyadConvert — Free WebP & AVIF Image Converter, Compressor & Optimizer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.5%20PRO-emerald?style=for-the-badge&logo=rocket" alt="Version" />
@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
-  <strong>أداة ويب احترافية فائقة السرعة لتحويل وضغط الصور محلياً مع خوارزمية ذكية لضبط الحجم عند 130 كيلوبايت أو أقل بأقصى نقاء بصري.</strong><br>
-  <em>Next-Generation Client-Side Image Converter & Optimizer with Adaptive ≤ 130KB Compression Engine.</em>
+  <strong>ReyadConvert by Mohamed Reyad (@reyad-dev) — أداة ويب احترافية فائقة السرعة لتحويل وضغط الصور محلياً مع خوارزمية ذكية لضبط الحجم عند 130 كيلوبايت أو أقل بأقصى نقاء بصري.</strong><br>
+  <em>Free client-side WebP & AVIF image converter, compressor and optimizer with an adaptive ≤ 130KB compression engine.</em>
 </p>
 
 ---
 
 ## 🌟 نظرة عامة | Overview
 
-**ReyadConvert** هو استوديو ويب متكامل طُوّر بواسطة **Mohamed Reyad** لتحويل وضغط الصور بكفاءة خارقة دون الحاجة لأي خوادم خارجية (معالجة داخلية 100% داخل المتصفح). 
+**ReyadConvert** هو استوديو ويب متكامل طُوّر بواسطة **Mohamed Reyad (@reyad-dev)** لتحويل وضغط الصور بكفاءة خارقة دون الحاجة لأي خوادم خارجية (معالجة داخلية 100% داخل المتصفح). 
 
 صُمم التطبيق خصيصاً لمطوري المواقع، مصممي واجهات المستخدم، وصنّاع المحتوى الذين يحتاجون إلى تسريع تحميل مواقعهم وضمان الامتثال التام لمعايير **Google Core Web Vitals**، مع الحفاظ على خصوصية بياناتهم بالكامل.
 
@@ -103,13 +103,13 @@ npx serve .
 
 ## 🔍 الكلمات الدلالية ومحركات البحث | SEO Keywords
 
-`ReyadConvert`, `Mohamed Reyad`, `WebP Converter`, `Compress WebP to 130KB`, `AVIF Converter`, `Client Side Image Optimizer`, `Batch Image Resizer`, `Google Core Web Vitals`, `محول الصور إلى WebP`, `ضغط الصور الذكي`, `تقليل حجم الصور أونلاين`, `أداة تحويل الصور محمد رياض`, `تحويل PNG إلى WebP`, `ضغط الصور بدون فقدان الجودة`.
+`ReyadConvert`, `Mohamed Reyad`, `reyad-dev`, `WebP Converter`, `Compress WebP to 130KB`, `AVIF Converter`, `Client Side Image Optimizer`, `Batch Image Resizer`, `Google Core Web Vitals`, `محول الصور إلى WebP`, `ضغط الصور الذكي`, `تقليل حجم الصور أونلاين`, `أداة تحويل الصور محمد رياض`, `تحويل PNG إلى WebP`, `ضغط الصور بدون فقدان الجودة`.
 
 ---
 
 ## 👨‍💻 المطور | Author
 
-**Mohamed Reyad (محمد رياض)**  
+**Mohamed Reyad (محمد رياض) — @reyad-dev**  
 - GitHub: [@reyad-dev](https://github.com/reyad-dev)
 - Project Repository: [https://github.com/reyad-dev/ReyadConvert](https://github.com/reyad-dev/ReyadConvert)
 
