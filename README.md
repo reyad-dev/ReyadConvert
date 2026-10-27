@@ -2,7 +2,7 @@
   <img src="repo-icon.svg" width="180" alt="ReyadConvert icon" />
 </p>
 
-# ⚡ ReyadConvert — Free WebP & AVIF Image Converter, Compressor & Optimizer
+# ⚡ ReyadConvert | Free WebP & AVIF Image Converter, Compressor & Optimizer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.5%20PRO-emerald?style=for-the-badge&logo=rocket" alt="Version" />
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>ReyadConvert by Mohamed Reyad (@reyad-dev) — أداة ويب احترافية فائقة السرعة لتحويل وضغط الصور محلياً مع خوارزمية ذكية لضبط الحجم عند 130 كيلوبايت أو أقل بأقصى نقاء بصري.</strong><br>
+  <strong>ReyadConvert by Mohamed Reyad (@reyad-dev) | أداة ويب احترافية فائقة السرعة لتحويل وضغط الصور محلياً مع خوارزمية ذكية لضبط الحجم عند 130 كيلوبايت أو أقل بأقصى نقاء بصري.</strong><br>
   <em>Free client-side WebP & AVIF image converter, compressor and optimizer with an adaptive ≤ 130KB compression engine.</em>
 </p>
 
@@ -109,7 +109,7 @@ npx serve .
 
 ## 👨‍💻 المطور | Author
 
-**Mohamed Reyad (محمد رياض) — @reyad-dev**  
+**Mohamed Reyad (محمد رياض) | @reyad-dev**  
 - GitHub: [@reyad-dev](https://github.com/reyad-dev)
 - Project Repository: [https://github.com/reyad-dev/ReyadConvert](https://github.com/reyad-dev/ReyadConvert)
 
